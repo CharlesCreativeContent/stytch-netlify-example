@@ -64,7 +64,7 @@ Click the button below to deploy this application to Netlify. This will create a
 Note, you'll need to add your Netlify's site domain to the [Redirect URLs](https://stytch.com/dashboard/redirect-urls), e.g. `https://main--wonderful-salmiakki-f95458.netlify.app/authenticate`, and [Authorized applications](https://stytch.com/dashboard/sdk-configuration) in your Stytch Dashboard, e.g. `https://main--wonderful-salmiakki-f95458.netlify.app`. 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stytchauth/stytch-netlify-example)
-
+<br id="netlify">
 ## Running the app locally
 If you want to run the app locally, the app may be run with the command:
 
